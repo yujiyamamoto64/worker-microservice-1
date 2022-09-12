@@ -9,13 +9,13 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.yamamoto64</groupId>
-	<artifactId>hr-api-gateaway-zull</artifactId>
+	<artifactId>hr-api-gateaway-zuul</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>hr-api-gateaway-zull</name>
+	<name>hr-api-gateaway-zuul</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
-		<spring-cloud.version>Hoxton.SR8</spring-cloud.version>
+		<spring-cloud.version>Hoxton.SR12</spring-cloud.version>
 	</properties>
 	<dependencies>
 		<dependency>
